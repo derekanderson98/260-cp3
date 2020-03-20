@@ -1,5 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>About:</h1>
+    <p>This is a joke page documenting the fictional apocalypse status of several areas in the world</p>
   </div>
 </template>
